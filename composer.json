@@ -19,8 +19,7 @@
     "require-dev": {
         "mockery/mockery" : "0.9.*",
         "phpunit/phpunit" : "6.0.*",
-        "php-coveralls/php-coveralls": "~2",
-        "laravel/laravel": "^6"
+        "php-coveralls/php-coveralls": "~2"
     },
     "autoload": {
         "psr-4": {
